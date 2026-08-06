@@ -1,5 +1,4 @@
 ## Olá, eu sou Caio Cesar 👋
-Nascido e criado no Rio de Janeiro. <br>
 Sou um Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend Java. Tenho projetos práticos com Spring Boot, APIs REST, MySQL, JPA/Hibernate, DTOs, validações e tratamento de erros.
 
 <div>
